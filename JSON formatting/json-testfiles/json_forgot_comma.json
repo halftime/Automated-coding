@@ -1,0 +1,15 @@
+[
+	[
+		"the first array",
+		"is formatted correctly"
+	],
+	[
+		"the second array",
+		"is missing a seperator comma (,) between arrays below:"
+	]
+	[
+		"the third array",
+		"...",
+		"thanks for checking my github :)"
+	]
+]
